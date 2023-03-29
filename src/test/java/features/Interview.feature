@@ -1,4 +1,4 @@
-Feature: REST API Exercise fot CGM Interview
+Feature: REST API Exercise for CGM Interview
 
   Scenario Outline: Executable test scenario for GET Api
     Given The user invokes API URI
